@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 800px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    font-size: 40px;
+    background-color: darkslategray;
+    color: antiquewhite;
+    text-align: center;
+    font-weight: bold;
+}
+
+.subheading {
+    font-size: 20px;
+    color: darkslategray;
+    text-align: center;
+}
+
+.titles {
+    font-size: 28px;
+    background-color: red;
+    color: white;
+}
+
+li {
+    font-size: 20px;
+}
